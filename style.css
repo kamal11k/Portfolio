@@ -1,0 +1,40 @@
+body{
+    color: #747784;
+    font-family: 'Lato',sans-serif;
+    font-weight:300;
+}
+.title{
+    font-size: 60px;
+}
+.text-muted{
+    color: #BCBBBB;
+}
+.text-thin{
+    font-weight: 100;
+}
+.text-size{
+    font-family: "Times New Roman", Times, serif;
+}
+.logo{
+    height:100px;
+    margin-top: 20px;
+}
+
+.middleImage{
+    height: 450px;
+    width: 100%;
+}
+
+.projectImage1{
+    height: 250px;
+    width: 100%;
+}
+.projectImage2{
+    height: 250px;
+    width: 100%;
+}
+.projectImage3{
+    height: 250px;
+    width: 100%;
+}
+
